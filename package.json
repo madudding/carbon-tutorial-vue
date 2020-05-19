@@ -89,5 +89,10 @@
       "jest-watch-typeahead/filename",
       "jest-watch-typeahead/testname"
     ]
-  }
+  },
+  "description": "Carbon View Tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/carbon-design-system/carbon-tutorial-vue.git",
+  "author": "Mark Dudding <maduddin@us.ibm.com>",
+  "license": "Apache-2.0"
 }
